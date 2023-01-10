@@ -1,9 +1,10 @@
 # Sergey Zavolzhskiy
 
-**_FullStack developer_**
+## Fullstack developer
 
-   I'm engineer with more than 10 years experiences in Web-based technologies, methodologies and best practices, information systems design patterns, UI/UX design, management and support processes of the complex programs developing. Due to the strong emotional burnout and living circumstances I have been forced to get the extended time-out in commercial development and change my occupation to non-relevant.
-   Currently I'm educating myself in a modern Web development trying to restore both my soft and hard skills, redefining and improving the understanding of the prior work experience. My goal is to grok the Ruby&RoR \+ React engineering processes and get an offer for the full stack developer position in the short run.
+I'm engineer with more than **10 years experiences** in Web-based technologies, methodologies and best practices, information systems design patterns, UI/UX design, management and support processes of the complex software development. After working as a technical project manager for a long time, due to the high emotional burnout and living circumstances I have been forced to get the extended time-out in commercial development and change my occupation to non-relevant.
+
+Currently I'm educating myself in a modern Web development trying to regain both my soft and hard skills, redefining and improving the understanding of the prior work experience. My goal is to grok the **Ruby / RubyOnRails \+ React** engineering processes and get an offer for the full stack developer position in the short run.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/zavolzhskiy/">
@@ -18,13 +19,13 @@
 
 ## Education
 
-2004 – 2010: **Specialist of Computer Science** and Security in "Faculty of Mathematics and Information Technology", Ulyanovsk State University (USU)
+2004 – 2010: **Specialist of Computer Science and Security** in "Faculty of Mathematics and Information Technology", Ulyanovsk State University (USU)
 
 ## Technical Stack
 
-- Interesting in **JavaScript, React, Ruby & RoR** development.
+- Interesting in **Ruby & RoR, JavaScript, React** development.
 - Worked with **HTML/xHTML/HTML5, CSS3, PHP5, JavaScript(ES5), JSON, XML, Bash, MySQL, Apache, Nginx, SSL, Vagrant, SVN, Git, etc**.
-- As a technical project manager led the Agile/Kanban teams with **Ruby\+RubyOnRails, NodeJS, Javascript, Postgresql, Chef/Ansible\+Vagrant, Sphinx/ElasticSearch, Redmine\+TravisCI/..** stack providing **Web-sofware UI/UX and architecture design and prototyping** by using simple scatches, UML (primaraly **UserCase\+EntityRelatioship diagrams**) by myself, edacating participants and anacting the **Extreme Programming** methodology into life.
+- As a technical project manager led the Agile/Kanban teams with **Ruby\+RubyOnRails, NodeJS, Javascript, Postgresql, Chef/Ansible\+Vagrant, Sphinx/ElasticSearch, Redmine\+TravisCI/..** stack providing **Web-sofware UI/UX and architecture design and prototyping** by using simple scatches, UML (primaraly **UserCase\+EntityRelatioship diagrams**) by myself, edacating participants and anacting the **Extreme Programming** methodology into software development lifecycle processes.
 
 ## Work experience
 
