@@ -29,6 +29,14 @@ Currently I'm educating myself in a modern Web development trying to regain both
 
 ## Work experience
 
+- [September 2022 - current time]: **learning projects and test assignments**
+   - **Task Manager project:** Developing [Kanban board](https://github.com/SerjZzz/Task-Manager/tree/develop) using the **Ruby / RubyOnRails / React / Redux** stack.
+      - _Docker, Rails RESTfull API, ActiveRecord, Mailer, Minitest, Ransack, Kaminari, Responder, Sidekiq, Kanban library, Redux store, Ramda, Github actions, etc_
+   - **Ruby exercises**: Completed some [Ruby studies](https://github.com/SerjZzz/ru-study-ruby) for DualBootPartnersInc .
+      - _Ruby, TDD, high-order functions, functional programing with Ruby_
+   - **Ulbibl.ru project**: Updated layout of non-commercial [ulbibl.ru](https://ulbibl.ru) project.
+      - _HTML, CSS, Bootstrap 3_
+
 - [December 2014 - August 2022]: **Periodical experiences in project development and management, audit and consulting services**. 
    - **Non-relevant experience in agriculture business**, LED lights researching, etc. Mastered in Soil, DWC, DWL plant growing, processes automatization, etc. Learned the science approaches of the physiology of the plants, growing technologies, schemes and specific feeding profiles by myself with no educational courses or help. So it was not only the self-motivated and practical way to overcome my impostor syndrome but the usefull biological engineering skills from scratch to the professional laboratory researching experience. I learned how to produce a feeding solution using simple salts from a public pharmacy for almost any crop or exotic fruit in any climatic zone of the globe and get the organoleptically ideal, strong and healfy product. Due to the situation in the world and the lack of investment I had to close existing projects in this area. Such a masterly success and an unexpected conclusion in a completely new field of activity pushed me to the idea of returning to the IT profession, became the motivation to review the past experience, learn hard-skills in the modern world of Web technologies and the inspiration to resume my career, but already in the role of a practicing developer.
    - **I have been working with Small-to-Medium businesses**, creating project documentation and terms of reference, project cost estimates or even public offer statements on the site if needed, providing my clients with audits of various project aspects and understanding of the most efficient, secure and cost-effective practices of creating and supporting applications on Web. 
