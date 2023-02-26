@@ -42,9 +42,12 @@ Explored the **Ruby, RubyOnRails, JavaScript, React** development.
 ## Recent development experience
 
 - [September 2022 - December 2022]: **Coding test assignments on a part-time basis**
-   - **TaskManager project:** Developed [Kanban board](https://github.com/SerjZzz/Task-Manager/tree/develop) using the **Ruby / RubyOnRails / React** stack to update my knowledge of modern Web development. **Docker, Ruby, RubyOnRails, RESTfull API, Postgress, ActiveRecord, Mailer, Minitest, Ransack, Kaminari, Responder, Sidekiq, React, Webpacker, Axios, Kanban library, Redux store, Ramda, Github actions, etc**
-   - **Ruby exercises**: Completed some [Ruby practices](https://github.com/SerjZzz/ru-study-ruby) for DualBootPartnersInc. **Ruby, TDD, high-order functions, functional programing with Ruby**
-   - **Javascript studies**: Explored ES5-ES6 and completed some basic [Javascript exercieses (NEED to update repository link!)](https://github.com/SerjZzz/ru-study-ruby). **Javascript, HTML, CSS, DOM manipulations**
+   - **TaskManager project:** Developed [Kanban board](https://github.com/SerjZzz/Task-Manager/tree/develop) using the **Ruby / RubyOnRails / React** stack to update my knowledge of modern Web development.
+      - **Tech stack:** Docker, Ruby, RubyOnRails, RESTfull API, Postgress, ActiveRecord, Mailer, Minitest, Ransack, Kaminari, Responder, Sidekiq, React, Webpacker, Axios, Kanban library, Redux store, Ramda, Github actions.
+   - **Ruby exercises**: Completed some [Ruby practices](https://github.com/SerjZzz/ru-study-ruby) for DualBootPartnersInc.
+      - **Tech stack:** Ruby, TDD, high-order functions, functional programing with Ruby
+   - **Javascript studies**: Explored ES5-ES6 and completed some basic [Javascript exercieses (NEED to update repository link!)](https://github.com/SerjZzz/ru-study-ruby).
+      - **Tech stack:** Javascript, HTML, CSS, DOM manipulations
 
 ## Previous Web-development background
 
